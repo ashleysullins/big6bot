@@ -21,5 +21,12 @@
   },
   "engines": {
     "node": "0.10.x"
+  },
+  {
+  "name": "node-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": ">=2.2.0"
   }
+}
 }
